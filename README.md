@@ -1,7 +1,7 @@
 # BMW price predcition
 In this project we will predict the BMW price.
 
-## Analysis Content \
+## Analysis Content 
 Step 1: Install + Import Necessary Libraries \
 Step 2: Reading + Exploring Data \
 Step 3: Analysis of each column \
