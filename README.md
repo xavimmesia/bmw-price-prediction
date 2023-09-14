@@ -12,4 +12,4 @@ Step 7: RMSE Modelo AR
 
 ## Files Included
 - [.ipynb Notebook](https://https://github.com/xavimmesia/bmw-price-prediction/blob/main/BMW_price_predict.ipynb)
-- [CSV file of UNHCR Refugee Stats for Canada from 2012-2022](bmw_pricing_v2.csv)
+- [BMW pricing](bmw_pricing_v2.csv)
