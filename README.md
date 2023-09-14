@@ -11,5 +11,5 @@ Step 6: Model Definition - RandomFOrestRegression \
 Step 7: RMSE Modelo AR
 
 ## Files Included
-- [.ipynb Notebook](https://https://github.com/xavimmesia/bmw-price-prediction/blob/main/BMW_price_predict.ipynb)
+- [.ipynb Notebook](https://github.com/xavimmesia/bmw-price-prediction/blob/main/BMW_price_predict.ipynb)
 - [BMW pricing](bmw_pricing_v2.csv)
